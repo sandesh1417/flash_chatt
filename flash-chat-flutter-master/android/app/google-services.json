@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510482756991",
+    "project_id": "flash-chat001",
+    "storage_bucket": "flash-chat001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510482756991:android:45ce43a9889a99b88c564a",
+        "android_client_info": {
+          "package_name": "co.sandesh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510482756991-b37pupbf3j0fj69usjti62pj55mlr75o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNoMMroFu4Q851HlVv5K7ziJgFDK3C9Vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510482756991-b37pupbf3j0fj69usjti62pj55mlr75o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
